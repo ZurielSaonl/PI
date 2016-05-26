@@ -14,14 +14,12 @@
         <script src="js/jquery.js"></script>
     </head>
     <body>
-<<<<<<< HEAD
+
         <?php
         $conn = new mysqli("localhost", "root", "","pi_db");
         if ($conn->connect_error)
         die("Connection failed: " . $conn->connect_error);
         ?>
-=======
->>>>>>> refs/remotes/origin/Zuriel
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
                 <div class="navbar-header">
