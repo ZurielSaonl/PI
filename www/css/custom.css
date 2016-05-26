@@ -20,6 +20,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: titulo;
 }
 
+#img-header{
+	margin-top: 10px;
+	height: 20%;
+	width: 20%;
+}
+
 #listaJB{
 	text-align: left;
 	font-size: 25px;

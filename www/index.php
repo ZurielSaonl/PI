@@ -14,17 +14,17 @@
         <script src="js/jquery.js"></script>
     </head>
     <body>
-        <?php
+        <!--<?php
         $conn = new mysqli("localhost", "zu", "1234","pi_db");
         if ($conn->connect_error)
         die("Connection failed: " . $conn->connect_error);
-        ?>
+        ?-->
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
                 <div class="navbar-header">
                     <div class="Titulo">
                         <a class="navbar-brand" href="index.html">David-o-trips</a>
-                        <img src="img/titulo-pequeño-blanco.png">
+                        <img id="img-header" src="img/titulo-pequeño-blanco.png">
                     </div>
                 </div>
             </div>
@@ -34,7 +34,9 @@
             <div class="container">
                 <div class="jumbotron text-center">
                     <!--<div class="alert alert-info" role="alert">Software's official relase date has been delayed due to technical</div>-->
-                    <h1 id="Jh1" class="Titulo">David-o-trips</h1>
+                    <div>
+                        <h1 id="Jh1" class="Titulo">David-o-trips</h1>
+                    </div>
                     <div>
                         <!--Carousel-->
                         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="5000">
