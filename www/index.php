@@ -15,7 +15,7 @@
     </head>
     <body>
         <?php
-        $conn = new mysqli("localhost", "zu", "1234","pi_db");
+        $conn = new mysqli("localhost", "root", "","pi_db");
         if ($conn->connect_error)
         die("Connection failed: " . $conn->connect_error);
         ?>
