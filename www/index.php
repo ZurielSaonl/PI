@@ -10,6 +10,7 @@
         <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
         <script src="js/jquery-1.12.3.js"></script>
         <script src="js/jquery.js"></script>
     </head>
@@ -24,8 +25,13 @@
             <div class="container">
                 <div class="navbar-header">
                     <div class="Titulo">
+<<<<<<< HEAD
                         <a class="navbar-brand" href="index.html">David-o-trips</a>
                         <img id="img-header" src="img/titulo-pequeño-blanco.png">
+=======
+                        <a href="index.html">David-o-trips</a>
+                        <img src="img/titulo-pequeño-blanco.png" width=40 height=60>
+>>>>>>> refs/remotes/origin/master
                     </div>
                 </div>
             </div>
