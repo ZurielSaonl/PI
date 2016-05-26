@@ -25,7 +25,7 @@
                 <div class="navbar-header">
                     <div class="Titulo">
                         <a href="index.html">David-o-trips</a>
-                        <img src="img/titulo-pequeño-blanco.png" width=40 height=60>
+                        <img src="img/titulo-pequeño-blanco.png" width=60 height=40>
                     </div>
                 </div>
             </div>
