@@ -14,11 +14,6 @@
         <script src="js/jquery.js"></script>
     </head>
     <body>
-        <!--<?php
-        $conn = new mysqli("localhost", "zu", "1234","pi_db");
-        if ($conn->connect_error)
-        die("Connection failed: " . $conn->connect_error);
-        ?-->
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
                 <div class="navbar-header">
