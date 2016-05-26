@@ -24,7 +24,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <div class="Titulo">
-                        <a class="navbar-brand" href="index.html" id="titulo">David-o-trips</a>
+                        <a href="index.html">David-o-trips</a>
                         <img src="img/titulo-pequeño-blanco.png" width=40 height=60>
                     </div>
                 </div>
